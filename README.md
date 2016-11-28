@@ -1,7 +1,7 @@
 # E-Trade-for-SignalR-Stock-Control-DEMO
 My project is not fnished,this is only demo and aimed to give you information thanks
 
-languages TR - türkçe / ENG -english
+Languages TR - türkçe / ENG -english
 
 ENG
 That I had joined for the course on request project completion I made within Autofac to mvc Repository EF Code First structure Core using layers i created.As required by the scenario for inventory control SignalR technology used in project this product is a final product when it is sold from technology I have two user which will be solved with SignalR as I said, the project only Demo.
